@@ -1,8 +1,6 @@
 import entidades.*;
 import enums.Categoria;
 
-import java.sql.SQLOutput;
-
 /** REQUISITOS DO PROJETO:
  * Deve ser possível:
  * [x] Gerenciar marcas (cadastrar, selecionar, alterar, remover)
